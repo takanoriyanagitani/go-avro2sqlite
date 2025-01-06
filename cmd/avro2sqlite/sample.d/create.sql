@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS sample1(
+	id      INTEGER PRIMARY KEY,
+	height  REAL    NOT NULL,
+	name    TEXT    NOT NULL,
+	created TEXT NOT NULL
+)
